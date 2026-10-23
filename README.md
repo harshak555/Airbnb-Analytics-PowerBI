@@ -7,28 +7,28 @@ An interactive **Power BI** data analytics project designed to explore and analy
 This project provides key business insights into short-term rental performance. By analyzing metrics such as average ratings, prices, long-stay availability, and host categorizations (Superhosts vs. Regular hosts), this dashboard helps identify pricing drivers and market demand patterns across various property types and regions.
 ---
 ## 📈 Key Metrics & KPIs
-* **Total Stays:** 3K[cite: 7]
-* **Total Hosts:** 3K[cite: 7]
-* **Total Reviews:** 85K[cite: 7]
-* **Average Rating:** 94.54[cite: 7]
-* **Average Price of Stay:** $128[cite: 7]
-* **Average Long Stay Availability:** 244.77 days[cite: 7]
-* **Superhost Count:** 778 (28.28% of total hosts)[cite: 8]
-* **Top Host Percentage:** 0.36%[cite: 8]
+* **Total Stays:** 3K
+* **Total Hosts:** 3K
+* **Total Reviews:** 85K
+* **Average Rating:** 94.54
+* **Average Price of Stay:** $128
+* **Average Long Stay Availability:** 244.77 days
+* **Superhost Count:** 778 (28.28% of total hosts)
+* **Top Host Percentage:** 0.36%
 ---
 ## 📑 Dashboard Pages & Preview
 ### 1. Home / Overview Dashboard
 * Displays key summary KPIs, global listing locations map, price vs. rating scatter distribution, neighborhood breakdown, room type pricing, and availability.
-![Airbnb Home Dashboard](screenshots/1.Home.JPG)
+![Airbnb Home Dashboard](1.Home.JPG)
 ### 2. Insights Dashboard
 * Deep dives into revenue trends over time, price bins distribution, host listing categories (Single vs. Portfolio hosts), room type comparisons, and property type details (House, Apartment, Townhouse, etc.).
-![Airbnb Insights Dashboard](screenshots/2.Insights.JPG)
+![Airbnb Insights Dashboard](2.Insights.JPG)
 ---
 ## 🔍 Key Findings & Insights
-1. **Room Type Preferences:** Entire home/apartments represent the vast majority of total stays (~2.0K) and command the highest average price ($156)[cite: 7].
-2. **Neighborhood Demand:** Capitol Hill, Ballard, and Queen Anne are among the top-performing neighborhoods by total stays[cite: 7].
-3. **Host Distribution:** A significant majority of hosts (~2.3K) manage a single property, with only a small fraction managing large portfolios[cite: 8].
-4. **Price Binning:** Most stays fall within the $50–$100 and $100–$200 price ranges[cite: 8].
+1. **Room Type Preferences:** Entire home/apartments represent the vast majority of total stays (~2.0K) and command the highest average price ($156).
+2. **Neighborhood Demand:** Capitol Hill, Ballard, and Queen Anne are among the top-performing neighborhoods by total stays.
+3. **Host Distribution:** A significant majority of hosts (~2.3K) manage a single property, with only a small fraction managing large portfolios.
+4. **Price Binning:** Most stays fall within the $50–$100 and $100–$200 price ranges.
 ---
 ## 🛠️ Tools & Technologies Used
 * **Power BI Desktop:** Data transformation, DAX metrics, interactive visuals, and canvas design.
