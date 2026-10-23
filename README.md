@@ -40,4 +40,4 @@ The **Airbnb Analytics Dashboard** successfully translates complex short-term re
 
 ## 👤 Author
 **Harsha  Vardhan Kolagani**  
-* [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harshavardhank189/)) | [Portfolio/Website](https://github.com/harshak555)
+* [LinkedIn Profile](https://www.linkedin.com/in/harshavardhank189/) | [Portfolio/Website](https://github.com/harshak555)
