@@ -4,7 +4,7 @@ interactive Power BI dashboard analyzing Airbnb stays, pricing trends, room type
 An interactive **Power BI** data analytics project designed to explore and analyze Airbnb listings, pricing strategies, host distribution, room types, and neighborhood availability.
 ---
 ## 📊 Project Overview
-This project provides key business insights into short-term rental performance. By analyzing metrics such as average ratings, prices, long-stay availability, and host categorizations (Superhosts vs. Regular hosts), this dashboard helps identify pricing drivers and market demand patterns across various property types and regions.
+This project provides key business insights into short-term rental performance. By analyzing metrics such as average ratings, prices, long-stay availability, and host categorizations (Superhost's vs. Regular hosts), this dashboard helps identify pricing drivers and market demand patterns across various property types and regions.
 ---
 ## 📈 Key Metrics & KPIs
 * **Total Stays:** 3K
@@ -39,5 +39,5 @@ The **Airbnb Analytics Dashboard** successfully translates complex short-term re
 ---
 
 ## 👤 Author
-**Your Name**  
-* [LinkedIn Profile](https://linkedin.com/in/your-profile) | [Portfolio/Website](https://your-portfolio-link.com)
+**Harsha  Vardhan Kolagani**  
+* [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harshavardhank189/)) | [Portfolio/Website](https://github.com/harshak555)
